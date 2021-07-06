@@ -3,6 +3,8 @@
 ## Introducción
 Proyecto universitario de Computación Gráfica con OpenGL. El objetivo de este proyecto es crear y resolver un cubo de Rubik mediante el modelado, rendering y animación mediante la utilización del IDE Visual Studio 2019 y la API OpenGL, dando lugar a la utilización de nuestra placa gráfica de nuestra máquina personal. Este proyecto también se concentra en resolver el cubo de Rubik mediante el método Fridrich (CFOP) disponible en GitHub. Daremos a conocer puntos claves de nuestro proyecto como: Estructura, Transformaciones y Método de Fridrich.
 
+![screenshot](https://github.com/RenzoAlessandro/Cubo-Rubik-OpenGL/blob/main/CubeRubik.gif)
+
 - Video - https://youtu.be/1f8bpXxjI98
 
 ## Instalación
