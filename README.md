@@ -14,7 +14,7 @@ Proyecto universitario de Computación Gráfica con OpenGL. El objetivo de este 
 ## Creditos 
 Este proyecto es programado por:
 * [Renzo Alessandro Sucari Velasquez](https://github.com/RenzoAlessandro)
-* [Karen Alejandra Fernandez Fernandez Davila](https://github.com/RenzoAlessandro)
+* [Karen Alejandra Fernandez Fernandez Davila](https://github.com/kfer9320)
 
 Docente: 
 * [Manuel Eduardo Loaiza Fernández]
